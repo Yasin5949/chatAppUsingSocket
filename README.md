@@ -1,2 +1,3 @@
 # chatAppUsingSocket
-mini cat App using socket programming
+mini chat App using socket programming
+and i used GUI to display the messages sent between the clients
